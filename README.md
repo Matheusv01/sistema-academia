@@ -1,9 +1,9 @@
 🏋️ Sistema de Academia em Java
-📌 Descrição
 
+📌 Descrição:
 Aplicação de console desenvolvida em Java para cadastrar alunos em planos de academia Básico e VIP, com cálculo de mensalidades, descontos por fidelidade e opção de personal trainer.
 
-⚙️ Funcionalidades
+⚙️ Funcionalidades:
 Cadastro de alunos em planos Básico e VIP.
 Cálculo de mensalidades.
 Descontos conforme o período contratado.
