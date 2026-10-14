@@ -10,7 +10,7 @@ Descontos conforme o período contratado.
 Opção de personal trainer no plano VIP.
 Validação de dados de entrada.
 
----- Conceitos de POO
+🧠 Conceitos de POO
 Encapsulamento: atributos privados e getters.
 Herança: subclasses PlanoBasico e PlanoVip.
 Polimorfismo: método calcularMensalidade().
@@ -20,7 +20,7 @@ Interface: Fidelizavel.
 Java JDK 25
 Git e GitHub
 
---- Como executar
+▶️ Como executar
 Instale o JDK 25.
 Clone o repositório.
 Abra o projeto em uma IDE compatível com Java.
@@ -29,4 +29,3 @@ Execute a classe principal.
 👥 Integrantes
 Nome do integrante 1: matheus vinicius
 Nome do integrante 2: victor correa
-
