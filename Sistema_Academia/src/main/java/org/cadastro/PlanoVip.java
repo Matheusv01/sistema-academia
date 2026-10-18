@@ -1,9 +1,11 @@
+package org.cadastro;
+
 public class PlanoVip extends Plano implements Fidelizavel {
     private int mesesContratados;
     private boolean querPersonal;
 
-    public PlanoVip(String nomeAluno, String cpf, double valorBase, int mesesContratados, boolean querPersonal) {
-        super(nomeAluno, cpf, valorBase);
+    public PlanoVip(String nomeAluno, String cpf, int mesesContratados, boolean querPersonal) {
+        super(nomeAluno, cpf, 250);
         this.mesesContratados = mesesContratados;
         this.querPersonal = querPersonal;
     }

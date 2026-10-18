@@ -1,8 +1,10 @@
+package org.cadastro;
+
 public class PlanoBasico extends Plano {
     private double taxaInscricao;
 
-    public PlanoBasico(String nomeAluno, String cpf, double valorBase, double taxaInscricao) {
-        super(nomeAluno, cpf, valorBase);
+    public PlanoBasico(String nomeAluno, String cpf, double taxaInscricao) {
+        super(nomeAluno, cpf, 150);
         this.taxaInscricao = taxaInscricao;
     }
 

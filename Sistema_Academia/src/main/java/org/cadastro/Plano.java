@@ -1,3 +1,5 @@
+package org.cadastro;
+
 public abstract class Plano {
 
     private String nomeAluno;
@@ -20,12 +22,5 @@ public abstract class Plano {
     }
     public double getValorBase() {
         return valorBase;
-    }
-
-    public String informacoesAluno () {
-        return " informações do aluno:\n " +
-                "nome do aluno : \n" + nomeAluno +
-                "cpf do aluno : \n" + cpf +
-                " valor base pago por aluno :" + valorBase;
     }
 }
